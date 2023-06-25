@@ -1,0 +1,27 @@
+{
+    "Name"  : "Abeer Fatima",
+    
+    "Hard Skills" : [
+        {
+            "Languages": ["HTML5","CSS3","JavaScript","React","MongoDB","NodeJS"],
+            "Frameworks/technologies": ["Bootstrap 4/5","Material UI","SCSS/SASS","Webflow"],
+            "Code Editors": ["Visual Code","Sublime","Brackets","Eclipse","WordPress"],
+            "Other Tools": ["GIT,GITHUB,Netlify,Xammp"]
+        }
+    ],
+    "Soft Skills" : [
+        "Focused on creating meaningful Front End Experience through UI prototyping  and Front End Development that matches both Business Goals and Client Expectations",
+        "Communicating efficiently with Client and understanding requirements.",
+        "Enjoy collabrating with teams and brainstoming new ideas.",
+        "Flexible in work and Adaptive towards new technologies and trends"
+    ],
+    "Academics" : [
+        {
+            "Degree": "B.E(computer)",
+            "College" : "Pillai's Institute of Information and Technology (PIIT,Mumbai)",
+            "University" : "Mumbai University",
+            "Aggregate" : "62%"
+        }
+    ]
+}
+
